@@ -1,6 +1,8 @@
 # Individual Project 4: Rust AWS Lambda and Step Functions
 This project creates two lambda functions and combines them into a workflow using AWS Step functions.
 
+Demo: https://youtu.be/1bNZo5dAiXU
+
 # AWS Lambda Function
 ### Overview 
 * For this assignment, I assume the lambda function receives a list of names. 
