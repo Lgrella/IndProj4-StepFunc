@@ -20,7 +20,7 @@ This project creates two lambda functions and combines them into a workflow usin
 
 ### Build and Deploy Lambda Function to AWS
 * Run `cargo lambda build` to build lambda function
-* Run `cargo lambda deploy --region us-east-1` to depoy Lambda function to AWS
+* Run `cargo lambda deploy --region us-east-1` to deploy Lambda function to AWS
 * Confirm in AWS console, under lambda functions, that the functions are there
 * You are able to test the functions there as well to confirm deployment is successful
 
